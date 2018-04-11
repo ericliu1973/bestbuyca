@@ -1,0 +1,8 @@
+https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?&filter=category%3aTV+%26+Home+Theatre%3bcurrentoffers0enrchstring%3aOn+Sale&lang=en-ca&icmp=Deals_Hub_tv_accessories_On_Sale
+https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?type=product&filter=category%3ATV+%26+Home+Theatre%3Bcurrentoffers0enrchstring%3AOn+Sale&lang=en-ca&icmp=Deals_Hub_tv_accessories_On_Sale&page=2
+https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?type=product&filter=category%3ATV+%26+Home+Theatre%3Bcurrentoffers0enrchstring%3AOn+Sale&lang=en-ca&icmp=Deals_Hub_tv_accessories_On_Sale&page=3
+https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?type=product&filter=category%3ATV+%26+Home+Theatre%3Bcurrentoffers0enrchstring%3AOn+Sale&lang=en-ca&icmp=Deals_Hub_tv_accessories_On_Sale&page=4
+
+https://www.bestbuy.ca/api/v2/json/search?lang=en&include=facets,resources,relatedcategories,relatedqueries,promotions,redirects&query=&page=1&pageSize=32&sortBy=relevance&sortDir=desc&path=category%3ATV%20%26%20Home%20Theatre%3Bcurrentoffers0enrchstring%3AOn%20Sale
+https://www.bestbuy.ca/api/v2/json/search?lang=en&include=facets,resources,relatedcategories,relatedqueries,promotions,redirects&query=&page=5&pageSize=32&sortBy=relevance&sortDir=desc&path=category%3ATV%20%26%20Home%20Theatre%3Bcurrentoffers0enrchstring%3AOn%20Sale
+https://www.bestbuy.ca/api/v2/json/search?lang=en&include=facets,resources,relatedcategories,relatedqueries,promotions,redirects&query=&page=2&pageSize=32&sortBy=relevance&sortDir=desc&path=category%3ATV%20%26%20Home%20Theatre%3Bcurrentoffers0enrchstring%3AOn%20Sale
